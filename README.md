@@ -56,7 +56,7 @@
 [![MessagePack](https://img.shields.io/badge/MessagePack-292929.svg?&logo=msgpack&logoColor=white&style=for-the-badge)](https://msgpack.org/)
 [![Cryptography](https://img.shields.io/badge/cryptography-F05033.svg?style=for-the-badge&logo=crypto)](https://www.openssl.org/)
 [![IDA/Ghidra](https://img.shields.io/badge/IDA_%C2%B7_Ghidra-af8b71.svg?style=for-the-badge&logo=hexrays)](https://hex-rays.com/)
-[![Frida](https://img.shields.io/badge/Frida-ef6456.svg?style=for-the-badge&logo=frida)](https://frida.re/)
+[![Frida](https://img.shields.io/badge/FЯida-ef6456.svg?style=for-the-badge&logo=frida)](https://frida.re/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Sentry](https://img.shields.io/badge/Sentry-000000.svg?style=for-the-badge&logo=sentry)](https://sentry.io/)
 [![GMS](https://img.shields.io/badge/GMS-0058c6.svg?style=for-the-badge&logo=google&logoColor=white)](https://www.android.com/gms/)
