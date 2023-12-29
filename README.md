@@ -10,7 +10,7 @@
 
 [![Profile info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mIwr&theme=solarized_dark)](https://github.com/mIwr?tab=repositories)
 
-![Programming language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=mIwr&hide=html,ruby,css&hide_border=true&layout=compact&langs_count=8&theme=nightowl)
+![Programming language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=mIwr&hide=cplusplus,java,html,ruby,css,c,cmake&hide_border=true&layout=compact&langs_count=8&theme=nightowl)
 
 ## Tech knowledge
 
