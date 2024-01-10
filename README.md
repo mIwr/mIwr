@@ -1,4 +1,4 @@
-# Hi there:wave:
+# Hi there :wave:
 
 - **My Name:** Michael
 - **Pronouns:** He/Him
